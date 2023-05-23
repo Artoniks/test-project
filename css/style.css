@@ -420,10 +420,10 @@ button {
   }
   .watermelon-container {
     padding-bottom: 0;
-    margin-left: 32px;
   }
   .fruits-container {
    margin-bottom: 0; 
+   margin-left: 32px;
   }
     .tag-list {
         
@@ -434,7 +434,6 @@ button {
         width: 270px;
         height: 87px;
         margin-left: auto;
-        /* position: absolute; */
         right: 100px;
         top: 1345px;
       
@@ -501,7 +500,6 @@ button {
     
     background: var(--yellow-color);
     border-radius: 500px;
-    /* margin: 0 auto; */
     margin-bottom: 44px;
 
 }
@@ -516,9 +514,7 @@ button {
   .fruits-second-container {
     margin-top: 0;
     margin-right: 0;
-    /* position: absolute; */
     top: auto;
-    /* right: 80px; */
     }
   .watermelon-container .fruits-second-container {
     margin-left: auto;
